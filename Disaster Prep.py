@@ -1,6 +1,6 @@
 print("Welcome to Disaster Prep! \n Disaster Prep alerts users when a natural disaster has been predicted in their area and provides users with a personalized plan and check list of necessary items to keep users safe.")
-def firstaid:
-    print("First Aid Kit")
+def firstaid():
+    print("First Aid Kit:")
     print("Flashlight and Extra Batteries \n Nonperishable food to last 3 days (for each person) (purification tablets) \n 1 gallon of water per person per day (3 Days) \n Plates, Cutlery, and, of course, a manual Can Opener \n 3 days worth of Clothing for everyone in your family \n Eyeglasses/Contacts and Contact Solution \n Necessary Medicines \n Electronics and Chargers \n For Infants: diapers, formula, etc. \n Waterproof Matches, a Whistle, and Strong Tape \n Battery operated or Crank Radio")
 
 def flood():
